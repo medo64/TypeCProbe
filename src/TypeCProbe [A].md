@@ -8,8 +8,9 @@
 |  2 | DS LED (0805)                             | DS1-DS2 | 475-1415-1-ND              |
 |  1 | J USB C 2.0, horizontal                   | J1      | 2073-USB4085-GF-ACT-ND     |
 |  2 | J USB C 3.2, horizontal                   | J2-J3   | 732-9617-1-ND              |
-| 52 | R 1K 5% 0.125W (0805)                     | R1-R52  | RMCF0805JT1K00             |
-|  2 | R 5K1 5% 0.125W (0805)                    | R53-R54 | RMCF0805JT5K10             |
+|  2 | R 1K 5% 0.125W (0805)                     | R1-2    | RMCF0805JT1K00             |
+|  2 | R 5K1 5% 0.125W (0805)                    | R3-R4   | RMCF0805JT5K10             |
+| 50 | R 10K 5% 0.125W (0805)                    | R5-R54  | RMCF0805JT10K0             |
 |  1 | U PIC16F1526-I/PT (TQFP-64)               | U1      | PIC16F1526-I/PT-ND         |
 |  1 | U MCP2221A-I/ST (TSSOP-14)                | U2      | MCP2221A-I/ST-ND           |
 |  1 | H 1593KBK                                 |         | HM355-ND                   |
